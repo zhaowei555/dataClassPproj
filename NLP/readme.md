@@ -4,7 +4,9 @@
 编译文件：python nl.py
 然后进入python交互解释器：python
 >>>import nl
+
 >>>nl.Test()
+
 >>>nl.Test10()
 
 
